@@ -1,0 +1,28 @@
+button {
+  border-radius: 40px;
+  border-width: 0;
+  cursor: pointer;
+  padding: 12px;
+  margin: 5px;
+}
+
+button:disabled {
+  cursor: not-allowed;
+}
+
+.resetButton {
+  background-color: rgb(241, 241, 241);
+  margin: 10px;
+}
+
+.bubbleSort {
+  background-color: #e0f7ff;
+}
+
+.selectionSort {
+  background-color: #ffe3e3;
+}
+
+.insertionSort {
+  background-color: #edffe3;
+}
